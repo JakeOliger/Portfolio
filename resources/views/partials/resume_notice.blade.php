@@ -1,0 +1,1 @@
+<div class="notice"><span>Note: </span>For a formal listing of my qualifications and employment history, please see <a href="{{ url('/dl/JakeOligersResume.pdf') }}" target="_blank">my resume</a>.</div>
